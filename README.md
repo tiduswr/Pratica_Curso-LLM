@@ -4,9 +4,9 @@ Este projeto tem como objetivo a prática de técnicas e estudos com **Large Lan
 
 ## **Pré-requisitos**
 
-Antes de iniciar, verifique se você tem o **Python 3.11** instalado em seu sistema. Caso não tenha, o script a seguir será responsável por configurar o ambiente.
+Antes de iniciar, verifique se você tem o **Python 3.11**, **Anaconda** e **Jupyter Notebook** instalado em seu sistema.
 
-## **Dependências do Projeto**
+### **Dependências do Projeto**
 
 Este projeto usa algumas bibliotecas principais. As versões e os pacotes podem ser encontrados no arquivo `requirements.txt`.
 
