@@ -10,7 +10,7 @@ Antes de iniciar, verifique se você tem o **Python 3.11** instalado em seu sist
 
 Este projeto usa algumas bibliotecas principais. As versões e os pacotes podem ser encontrados no arquivo `requirements.txt`.
 
-![Python](https://img.shields.io/badge/python-3.10-blue.svg)
+![Python](https://img.shields.io/badge/python-3.11-blue.svg)
 ![langchain](https://img.shields.io/badge/langchain-0.3.14-blue.svg)
 ![pinecone-client](https://img.shields.io/badge/pinecone--client-5.0.1-blue.svg)
 ![PyMuPDF](https://img.shields.io/badge/PyMuPDF-1.25.1-blue.svg)
