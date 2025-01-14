@@ -9,13 +9,7 @@ __pycache__/
 *.pyt
 
 # Diretórios de ambientes virtuais
-.env/
-.venv/
-env/
-venv/
-ENV/
-env.bak/
-venv.bak/
+.langchain_venv/
 
 # Arquivos e logs de debug
 *.log
@@ -59,7 +53,7 @@ langchain_db.sqlite
 *.env
 .env.*
 secrets.*
-api-keys.yaml
+config.yaml
 
 # Arquivos de saída do Jupyter
 *.html
