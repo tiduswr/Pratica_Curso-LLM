@@ -58,3 +58,4 @@ config.yaml
 # Outros
 *.DS_Store
 Thumbs.db
+cache
