@@ -55,31 +55,6 @@ langchain_db.sqlite
 secrets.*
 config.yaml
 
-# Arquivos de saída do Jupyter
-*.html
-*.tex
-*.png
-*.jpg
-*.jpeg
-*.gif
-*.svg
-*.pdf
-
-# Dados gerados (modelos, checkpoints e outros arquivos pesados)
-*.h5
-*.hdf5
-*.ckpt
-*.pth
-*.weights
-*.onnx
-
-# Arquivos compactados
-*.zip
-*.tar
-*.gz
-*.bz2
-*.7z
-
 # Outros
 *.DS_Store
 Thumbs.db
